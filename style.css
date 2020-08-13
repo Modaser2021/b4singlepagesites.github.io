@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+  background: #333 ;
+  color: #fff;
+}
+
+/* Start NavBar section*/
+nav{
+  border-bottom: 2px solid green;
+  opacity: 0.8;
+}
+nav ul li{
+  text-transform: uppercase;
+}
+
+
+
+/* start home section*/
+#home-section{
+  background: url(img/profit.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+  min-height: 700px;
+}
+#home-section .dark-overlay {
+	background: rgba(0, 0, 0, 0.6);
+	top: 0;
+	left: 0;
+	min-height: 700px;
+	width: 100%;
+	position: absolute;
+}
+#home-section .inner-home{
+  padding-top: 150px;
+}
+ .card-form{
+  opacity: 0.8;
+}
+.fa{
+  font-size: 20px;
+  background: #fff;
+  color: #1072DD;
+  border-radius: 5px
+
+}
+#home-section .align-self-end{
+  font-size: 17px;
+
+}
+/* End home section*/
+/* start Explore section*/
+#explore-head-section{
+
+}
+
+#explore-content-sec .fa{
+  background:#333;
+  color: #fff;
+}
+#explore-content-sec .lead{
+  font-size: 18px;
+}
+/* End Explore section*/
+
+/* start create section*/
+#create-content-sec{
+
+}
+#create-content-sec .fa{
+  color: #333;
+}
+/* End create section*/
+/*my-project section*/
+#my-project .card-para{
+  font-size: 16px;
+}
+.card-width{
+  width: 300px;
+}
+/*my-project section*/
+/*start footer */
+footer .fa{
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 50px;
+}
+
+.single-box{
+  margin: 10px;
+}

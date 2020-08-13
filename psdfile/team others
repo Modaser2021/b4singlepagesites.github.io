@@ -1,0 +1,40 @@
+<div class=" col span_1_of_5  box">
+  <img src="resource/img/Shofi.jpg" alt="shoriful" class = "img_team">
+  <h3 class = "name">S Rahman</h3>
+  <p class="des_of_Team_pic"><a href ="">Web Designer</a><br>
+    Nickname is Young <b>ShefuDah</p>
+</div>
+
+<div class="row">
+  <div class=" col span_1_of_5 box">
+    <img src="resource/img/s.jpg" alt="Modaser" class = "img_team">
+    <h3 class = "name">M Hasan</h3>
+    <p class="des_of_Team_pic"><a href ="">Online Supporter</a><br>
+      Nickname is Honest <b>Hridoy</p>
+  </div>
+  <div class=" col span_1_of_5 box">
+    <img src="resource/img/Susmith.jpg" alt="Susmit" class = "img_team">
+    <h3 class = "name">S Rahman</h3>
+    <p class="des_of_Team_pic"><a href ="">FrontEnd Developer</a><br>
+      Nickname is <b>Susmitah</p>
+  </div>
+  <div class=" col span_1_of_5 box">
+    <img src="resource/img/d.jpg" alt="Dider" class = "img_team">
+    <h3 class = "name">D Islam</h3>
+    <p class="des_of_Team_pic"><a href ="">BackEnd Developer</a><br>
+      Nickname is Young <b>Electrical Boy</p>
+  </div>
+  <div class=" col span_1_of_5 box">
+    <img src="resource/img/sultan.jpg " alt="shoriful" class = "img_team">
+    <h3 class = "name">S Nadim</h3>
+    <p class="des_of_Team_pic"><a href ="">Web Designer</a><br>
+      Nickname is <b>Ego Boy</p>
+  </div>
+  <div class=" col span_1_of_5  box">
+    <img src="resource/img/Shofi.jpg" alt="shoriful" class = "img_team">
+    <h3 class = "name">S Rahman</h3>
+    <p class="des_of_Team_pic"><a href ="">Web Designer</a><br>
+      Nickname is Young <b>ShefuDah</p>
+  </div>
+
+</div>
